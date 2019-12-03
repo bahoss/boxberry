@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/deploy/static/css/main.1fce604d.chunk.css",
-    "main.js": "/deploy/static/js/main.6955438f.chunk.js",
-    "main.js.map": "/deploy/static/js/main.6955438f.chunk.js.map",
+    "main.js": "/deploy/static/js/main.52b5abdd.chunk.js",
+    "main.js.map": "/deploy/static/js/main.52b5abdd.chunk.js.map",
     "runtime-main.js": "/deploy/static/js/runtime-main.e28825c6.js",
     "runtime-main.js.map": "/deploy/static/js/runtime-main.e28825c6.js.map",
     "static/js/2.688e8bff.chunk.js": "/deploy/static/js/2.688e8bff.chunk.js",
     "static/js/2.688e8bff.chunk.js.map": "/deploy/static/js/2.688e8bff.chunk.js.map",
     "index.html": "/deploy/index.html",
-    "precache-manifest.a9c1f01f750919f1fdbbba60581f412d.js": "/deploy/precache-manifest.a9c1f01f750919f1fdbbba60581f412d.js",
+    "precache-manifest.8eb685faf2949d96ba31cdcf1f1fde13.js": "/deploy/precache-manifest.8eb685faf2949d96ba31cdcf1f1fde13.js",
     "service-worker.js": "/deploy/service-worker.js",
     "static/css/main.1fce604d.chunk.css.map": "/deploy/static/css/main.1fce604d.chunk.css.map",
     "static/media/index.css": "/deploy/static/media/CeraPro-RegularItalic.bcf83f95.eot",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.e28825c6.js",
     "static/js/2.688e8bff.chunk.js",
     "static/css/main.1fce604d.chunk.css",
-    "static/js/main.6955438f.chunk.js"
+    "static/js/main.52b5abdd.chunk.js"
   ]
 }
